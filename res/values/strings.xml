@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ElektronikaiSzakszerviz2</string>
+    <string name="welcome">Üdvözlet!</string>
+    <string name="welcome2">Elektronikai szakszervíz</string>
+    <string name="welcome3">Időpontfolgaló rendszer</string>
+
+
+    <string name="register">Regisztráció</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="viewAppointments">Szolgáltatások</string>
+    <string name="password">Jelszó</string>
+    <string name="email">E-mail</string>
+
+    <string name="back">Vissza</string>
+
+
+    <string name="logout">Kijelentkezés</string>
+
+    <string name="sucRegister">Sikeres regisztráció! Kérem jelentkezzen be!</string>
+    <string name="failRegister">Sikertelen regisztráció!</string>
+
+
+    <string name="sucLogin">Sikeres bejelentkezés!</string>
+    <string name="failLogin">Sikertelen bejelentkezés!</string>
+    <string name="editText">empty</string>
+    <string name="date_hint">date</string>
+    <string name="dates">Időpontok</string>
+    <string name="close">Összecsuk</string>
+    <string name="send">Lefoglal</string>
+    <string name="cart">Foglalások</string>
+
+
+    <string-array name="shopping_item_names">
+        <item>Számítógép szervíz</item>
+        <item>Adatmentés</item>
+        <item>Távsegítség</item>
+        <item>Nyomatató javítás</item>
+        <item>Szaktanácsadás</item>
+        <item>Laptop javítás</item>
+    </string-array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/pc1</item>
+        <item>@drawable/data</item>
+        <item>@drawable/distance</item>
+        <item>@drawable/printer</item>
+        <item>@drawable/talk</item>
+        <item>@drawable/laptop</item>
+    </array>
+
+
+</resources>
