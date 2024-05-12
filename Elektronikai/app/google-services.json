@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133055306317",
+    "project_id": "elektronikaiszakszerviz",
+    "storage_bucket": "elektronikaiszakszerviz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133055306317:android:b94b08f9b3977714809a04",
+        "android_client_info": {
+          "package_name": "com.example.elektronikaiszakszerviz2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7PklIlXBWLXeqlNpteVCHz7s-oBC6Nfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
